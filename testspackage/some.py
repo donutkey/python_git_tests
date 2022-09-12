@@ -6,3 +6,4 @@ def do_something():
 if __name__ == '__main__':
     result = do_something()
     print(result)
+    print('update v1')
