@@ -1,6 +1,7 @@
 def do_something():
     a = 'somewhat to know'
     b = 'somehow to learn'
+    c = 'another text string'
     return a + ' ' + b
 
 if __name__ == '__main__':
