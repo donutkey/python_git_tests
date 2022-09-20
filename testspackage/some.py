@@ -17,3 +17,4 @@ if __name__ == '__main__':
         print('ip is: ' + str(i))
         print('outline found: ' + str(out_line))
 
+new_master_update = 1
