@@ -2,7 +2,3 @@
 Some little learning stuff for self.
 Do not waste time, 
 there is nothing interesting here at all
-### Changes coming
-Some cruel changes in syntax :D
-### Some changes going
-From feature branch
