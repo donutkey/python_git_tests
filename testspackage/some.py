@@ -18,3 +18,4 @@ if __name__ == '__main__':
         print('outline found: ' + str(out_line))
 
 new_master_update = 1
+new_feature_update = 2
